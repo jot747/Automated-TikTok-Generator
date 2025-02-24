@@ -3,7 +3,7 @@
 ## Overview
 This project automates the creation of short, engaging TikTok videos featuring space-themed footage. It downloads copyright-free space videos, generates a script using AI, converts the script into a voiceover, adds subtitles, and compiles everything into a final video.
 
-![Space Video Thumbnail](https://via.placeholder.com/800x400.png?text=Space+Video+Thumbnail)
+![Space Video Thumbnail](demo.jpg)
 
 ---
 
