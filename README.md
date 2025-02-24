@@ -15,7 +15,8 @@ This project automates the creation of short, engaging TikTok videos featuring s
 ✅ **Add Subtitles Dynamically**  
 ✅ **Compile and Render the Final Video**  
 
-![Workflow](https://via.placeholder.com/800x400.png?text=Workflow+Diagram)
+[![Watch the video](https://img.youtube.com/vi/CgK8PqUxZAQ/maxresdefault.jpg)](https://www.youtube.com/shorts/CgK8PqUxZAQ)
+
 
 ---
 
